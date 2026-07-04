@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project solves the ATM banknote dispensing problem by minimizing the number of banknotes required for a given withdrawal amount.
+This project was developed as part of a university Algorithms course.
+
+It solves the ATM banknote dispensing problem by minimizing the number of banknotes required for a given withdrawal amount.
 
 The project compares three different algorithmic approaches and evaluates their performance using Saudi Riyal denominations:
 
